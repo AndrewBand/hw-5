@@ -1,4 +1,4 @@
-class Level {
+class LevelLoaderTest {
     private int width;
     private int height;
 //exeption fo constructor!
