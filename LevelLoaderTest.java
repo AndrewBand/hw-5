@@ -2,7 +2,7 @@ class LevelLoaderTest {
     private int width;
     private int height;
 //exeption fo constructor!
-    public Level(int width, int height) throws LevelTooBigException {
+    public LevelLoaderTest(int width, int height) throws LevelTooBigException {
         if(width * height > 100000)
         { throw new LevelTooBigException(); }
         this.width = width;
