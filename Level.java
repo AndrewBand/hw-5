@@ -1,5 +1,3 @@
-package module5.hw5.exeption;
-
 class Level {
     private int width;
     private int height;
